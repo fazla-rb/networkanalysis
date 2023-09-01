@@ -1,0 +1,6 @@
+		
+Winegroom 	Uptown	red
+Winegroom 	Strawshop	orange
+Uptown 	Strawshop	blue
+Uptown 	Amazelake	red
+Strawshop 	Province	orange
